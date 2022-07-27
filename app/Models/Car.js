@@ -1,0 +1,1 @@
+// \ character is an escape character and lets you use ' and " while interpreting them as strings
